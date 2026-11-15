@@ -30,7 +30,7 @@ git clone YOUR_GITHUB_REPOSITORY_URL
 
 ### 2. Navigate to the Project Folder
 ```bash
-cd ML-LAB-PRACTICAL-1
+cd ML-LAB-PRACTICAL-15
 ```
 
 ### 3. Install Required Libraries
