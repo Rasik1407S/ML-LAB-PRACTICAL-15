@@ -25,7 +25,7 @@ ML-LAB-PRACTICAL-15/
 
 ### 1. Clone the Repository
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone ML-LAB-PRACTICAL-15
 ```
 
 ### 2. Navigate to the Project Folder
