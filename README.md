@@ -14,7 +14,7 @@ This project demonstrates the development of a Machine Learning web application 
 
 ## Project Structure
 ```text
-15_MLPRACTICAL/
+ML-LAB-PRACTICAL-15/
 │
 ├── app.py
 ├── requirements.txt
